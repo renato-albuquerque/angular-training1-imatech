@@ -1,5 +1,6 @@
-# Aula1
+# Aula1 | Angular Training
 
+Training related to SharpCoders2 Technology Program, a partnership between Imã Tech and MXM Sistemas.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
 
 ## Development server
